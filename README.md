@@ -10,7 +10,7 @@ Repository created to propose a solution to the assignement : "Linear Regression
 * [Technologies](#technologies)
 * [Build Project](#build-project)
 * [Run Project](#run-project)
-* [Descriptions](#descriptions)
+* [Results](#results)
 * [License](#license)
 
 ## Features
