@@ -80,11 +80,41 @@ To use the notebooks attached to this project it is possible using [google colab
 
 ## Results
 
-![](.github/re1.png)
+### Least Squares Problem Solution
+<div style="text-align: center; max-width: 500px;">
+    <img src=".github/re1.png" />
+    <table>
+        <tr>
+            <td><img src=".github/re2a.png" /></td>
+            <td><img src=".github/re2b.png" /></td>
+            <td><img src=".github/re2c.png" /></td>
+        </tr>
+        <tr>
+            <td><img src=".github/re2d.png" /></td>
+            <td><img src=".github/re2e.png" /></td>
+        </tr>
+    </table>
+</div>
 
-![](.github/re2.png)
+### Convergence of the Estimator
 
-![](.github/re3.png)
+<div style="text-align: center; max-width: 500px;">
+    <img src=".github/re3.png" />
+    <img src=".github/re4.png" />
+    <img src=".github/re5.png" />
+</div>
+
+
+### Recursive Calculation
+<div style="text-align: center; max-width: 500px;">
+    <table>
+        <tr>
+            <td><img src=".github/re6a.png" /></td>
+            <td><img src=".github/re6b.png" /></td>
+            <td><img src=".github/re6c.png" /></td>
+        </tr>
+    </table>
+</div>
 
 ## License
 
